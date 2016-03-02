@@ -19,14 +19,14 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email:
-  facebook: www.facebook.com/shauni.crystal/
+  facebook: shauni.crystal
   flickr:
-  github: https://github.com/StarIV/
+  github: StarIV
   instagram:
-  linkedin: https://www.linkedin.com/in/shaunicrystal/
-  pinterest: https://uk.pinterest.com/shaunicrystal/
+  linkedin: shaunicrystal
+  pinterest: shaunicrystal
   rss: # just type anything here for a working RSS icon
-  twitter: https://twitter.com/StarIV_
+  twitter: StarIV_
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
