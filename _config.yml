@@ -19,14 +19,14 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: www.facebook.com/shauni.crystal/
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/StarIV/
   instagram:
-  linkedin:
-  pinterest:
+  linkedin: https://www.linkedin.com/in/shaunicrystal/
+  pinterest: https://uk.pinterest.com/shaunicrystal/
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: https://twitter.com/StarIV_
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -53,7 +53,7 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 permalink: /:title/
 
